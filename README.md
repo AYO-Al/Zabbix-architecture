@@ -26,4 +26,4 @@ ansible-playbook agent.yml -f 10
   - nginx访问日志中状态码
   - httpd整数状态是否过期
   - 其他待添加
-![Uploading image.png…]()
+![Uploading image.png…](https://cb.topid.xyz/i/2023/05/24/k710fa-0.png)
